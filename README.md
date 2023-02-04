@@ -1,4 +1,4 @@
-Practical Machine Learning project for Smartphone User Identification. 
+# Practical Machine Learning project for Smartphone User Identification
 
 The main goal of the competition was to develop a classifier that can group accelerometer signal recordings by user.
 
@@ -11,4 +11,4 @@ For the project, I trained three machine learning models, in order to find the b
 - In search of a better performance, my third and last approach was using a Neural Network (NN) model for the task. With the NN model, I made many trials, using different parameters for the number of layers, epochs, batch sizes etc. I picked the best performers and submitted the predictions to the competition, with better results than the SVM model.
 
 
-There are more details in the documentation
+There are more details in the documentation.
